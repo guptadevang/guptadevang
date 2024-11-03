@@ -1,9 +1,9 @@
 ## Hey there 👋
 
-- 👨‍💻 I'm currently seeking an internship in AI and ML projects.
-- 📚 I'm currently studying Master's in Computer Science
-- 🔭 I’m currently working on Autonomous Vehicle
-- 🌱 I’m currently learning Machine Learning/Data Science
+- 👨‍💻 Seeking an internship in AI and ML projects.
+- 📚 Studying Master's in Computer Science
+- 🔭 Working on Autonomous Vehicle
+- 🌱 Learning Machine Learning/Data Science
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/devang-gupta-2001/)
 
 -----------------------------------------------------------------------------------
